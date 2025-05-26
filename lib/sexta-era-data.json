@@ -1,0 +1,88 @@
+{
+  "en": {
+    "title": "SEXTA ERA",
+    "subtitle": "Historical Documentary Series",
+    "tagline": "The truth of our common history",
+    "description": "This 3-episode documentary series of 45-minute historical thriller will reveal, from the hand of the most prestigious historians, a version hidden until today. More than 500 million Spanish speakers deserve to know the truth of their common history.",
+    "longDescription": "A poorly told past, a reality never told. New lines of investigation, coups in the shadows, power strategies that perpetuate for centuries to our days... we will see how, indeed, reality surpasses fiction.",
+    "details": {
+      "episodes": 3,
+      "duration": "45 minutes each",
+      "status": "In Production",
+      "year": "2023",
+      "locations": ["Spain", "Mexico"],
+      "languages": ["Spanish", "English"],
+      "genre": "Historical Documentary Thriller"
+    },
+    "production": {
+      "director": "Lorena Galdón",
+      "producer": "Alhambra Studios",
+      "collaborators": ["Government of Spain", "Government of Mexico"],
+      "distributors": ["TVE", "International Networks"]
+    },
+    "synopsis": {
+      "episode1": {
+        "title": "Hidden Shadows",
+        "description": "Uncovering the secret alliances and power plays that shaped the Spanish Empire's expansion into the Americas."
+      },
+      "episode2": {
+        "title": "The Silent Revolution",
+        "description": "Exploring the untold stories of resistance and cultural preservation during the colonial period."
+      },
+      "episode3": {
+        "title": "Legacy of Truth",
+        "description": "Revealing how historical narratives were constructed and the impact on modern Hispanic identity."
+      }
+    },
+    "themes": [
+      "Historical Investigation",
+      "Cultural Identity",
+      "Power Dynamics",
+      "Truth and Narrative",
+      "Hispanic Heritage"
+    ]
+  },
+  "es": {
+    "title": "SEXTA ERA",
+    "subtitle": "Serie Documental Histórica",
+    "tagline": "La verdad de nuestra historia común",
+    "description": "Esta serie documental de 3 episodios de 45' de thriller histórico desvelará, de la mano de los más prestigiosos historiadores, una versión oculta hasta hoy. Más de 500 millones de hispanohablantes merecen conocer la verdad de su historia común.",
+    "longDescription": "Un pasado mal relatado, una realidad jamás contada. Nuevas líneas de investigación, golpes de estado en la sombra, estrategias de poder que se perpetúan durante siglos hasta nuestros días... veremos cómo, efectivamente, la realidad supera a la ficción.",
+    "details": {
+      "episodes": 3,
+      "duration": "45 minutos cada uno",
+      "status": "En Producción",
+      "year": "2023",
+      "locations": ["España", "México"],
+      "languages": ["Español", "Inglés"],
+      "genre": "Documental Histórico Thriller"
+    },
+    "production": {
+      "director": "Lorena Galdón",
+      "producer": "Alhambra Studios",
+      "collaborators": ["Gobierno de España", "Gobierno de México"],
+      "distributors": ["TVE", "Cadenas Internacionales"]
+    },
+    "synopsis": {
+      "episode1": {
+        "title": "Sombras Ocultas",
+        "description": "Descubriendo las alianzas secretas y juegos de poder que moldearon la expansión del Imperio Español hacia las Américas."
+      },
+      "episode2": {
+        "title": "La Revolución Silenciosa",
+        "description": "Explorando las historias no contadas de resistencia y preservación cultural durante el período colonial."
+      },
+      "episode3": {
+        "title": "Legado de Verdad",
+        "description": "Revelando cómo se construyeron las narrativas históricas y su impacto en la identidad hispana moderna."
+      }
+    },
+    "themes": [
+      "Investigación Histórica",
+      "Identidad Cultural",
+      "Dinámicas de Poder",
+      "Verdad y Narrativa",
+      "Patrimonio Hispano"
+    ]
+  }
+}

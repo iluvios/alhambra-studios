@@ -1,0 +1,321 @@
+{
+  "projects": [
+    {
+      "id": "sexta-era",
+      "slug": "sexta-era",
+      "title": {
+        "en": "SEXTA ERA",
+        "es": "SEXTA ERA"
+      },
+      "subtitle": {
+        "en": "Historical Documentary Series",
+        "es": "Serie Documental Histórica"
+      },
+      "category": {
+        "en": "Documentary Series",
+        "es": "Serie Documental"
+      },
+      "year": "2023",
+      "status": {
+        "en": "In Production",
+        "es": "En Producción"
+      },
+      "location": {
+        "en": "Spain, Mexico",
+        "es": "España, México"
+      },
+      "description": {
+        "en": "This 3-episode documentary series of 45-minute historical thriller will reveal, from the hand of the most prestigious historians, a version hidden until today.",
+        "es": "Esta serie documental de 3 episodios de 45' de thriller histórico desvelará, de la mano de los más prestigiosos historiadores, una versión oculta hasta hoy."
+      },
+      "longDescription": {
+        "en": "A poorly told past, a reality never told. New lines of investigation, coups in the shadows, power strategies that perpetuate for centuries to our days... we will see how, indeed, reality surpasses fiction.",
+        "es": "Un pasado mal relatado, una realidad jamás contada. Nuevas líneas de investigación, golpes de estado en la sombra, estrategias de poder que se perpetúan durante siglos hasta nuestros días... veremos cómo, efectivamente, la realidad supera a la ficción."
+      },
+      "details": {
+        "episodes": 3,
+        "duration": {
+          "en": "45 minutes each",
+          "es": "45 minutos cada uno"
+        },
+        "languages": ["Spanish", "English"],
+        "genre": {
+          "en": "Historical Documentary Thriller",
+          "es": "Documental Histórico Thriller"
+        }
+      },
+      "production": {
+        "director": "Lorena Galdón",
+        "producer": "Alhambra Studios",
+        "collaborators": {
+          "en": ["Government of Spain", "Government of Mexico"],
+          "es": ["Gobierno de España", "Gobierno de México"]
+        }
+      },
+      "media": {
+        "heroImage": "/images/sexta-era.jpg",
+        "heroVideo": "/videos/sexta-era-trailer.mov",
+        "gallery": [
+          "/images/sexta-era-1.png",
+          "/images/sexta-era-2.png",
+          "/images/sexta-era-3.png",
+          "/images/sexta-era-4.png",
+          "/images/sexta-era-5.png"
+        ]
+      },
+      "tags": {
+        "en": ["Historical", "Investigation", "Documentary"],
+        "es": ["Histórico", "Investigación", "Documental"]
+      },
+      "featured": true
+    },
+    {
+      "id": "shamans",
+      "slug": "shamans",
+      "title": {
+        "en": "SHAMANS",
+        "es": "SHAMANS"
+      },
+      "subtitle": {
+        "en": "Anthropological Documentary",
+        "es": "Documental Antropológico"
+      },
+      "category": {
+        "en": "Documentary",
+        "es": "Documental"
+      },
+      "year": "2020",
+      "status": {
+        "en": "Completed",
+        "es": "Completado"
+      },
+      "location": {
+        "en": "Paraguay",
+        "es": "Paraguay"
+      },
+      "description": {
+        "en": "Can you imagine taking a trip where no one has done it before? A journey through ancestral wisdom and neuroscience.",
+        "es": "¿Te imaginas hacer un viaje donde nadie lo ha hecho antes? Un recorrido por la sabiduría ancestral y la neurociencia."
+      },
+      "longDescription": {
+        "en": "An unprecedented journey into the world of shamanic wisdom, exploring the intersection between ancient knowledge and modern neuroscience.",
+        "es": "Un viaje sin precedentes al mundo de la sabiduría chamánica, explorando la intersección entre el conocimiento ancestral y la neurociencia moderna."
+      },
+      "details": {
+        "episodes": 1,
+        "duration": {
+          "en": "90 minutes",
+          "es": "90 minutos"
+        },
+        "languages": ["Spanish", "Guaraní"],
+        "genre": {
+          "en": "Anthropological Documentary",
+          "es": "Documental Antropológico"
+        }
+      },
+      "production": {
+        "director": "Lorena Galdón",
+        "producer": "Alhambra Studios",
+        "collaborators": {
+          "en": ["Government of Paraguay", "Air Europa"],
+          "es": ["Gobierno de Paraguay", "Air Europa"]
+        }
+      },
+      "media": {
+        "heroImage": "/images/shamans.jpg",
+        "gallery": ["/images/shamans.jpg"]
+      },
+      "tags": {
+        "en": ["Anthropology", "Neuroscience", "Wisdom"],
+        "es": ["Antropología", "Neurociencia", "Sabiduría"]
+      },
+      "featured": false
+    },
+    {
+      "id": "original-py",
+      "slug": "original-py",
+      "title": {
+        "en": "Original.PY",
+        "es": "Original.PY"
+      },
+      "subtitle": {
+        "en": "Indigenous Heritage Documentary",
+        "es": "Documental de Patrimonio Indígena"
+      },
+      "category": {
+        "en": "Anthropological Documentary",
+        "es": "Documental Antropológico"
+      },
+      "year": "2022",
+      "status": {
+        "en": "Completed",
+        "es": "Completado"
+      },
+      "location": {
+        "en": "Paraguay",
+        "es": "Paraguay"
+      },
+      "description": {
+        "en": "Original.PY seeks to create an anthropological work as a historical anthology of the original Paraguayan peoples.",
+        "es": "Original.PY busca crear una obra antropológica como antología histórica de los pueblos originarios paraguayos."
+      },
+      "longDescription": {
+        "en": "A comprehensive exploration of Paraguay's indigenous heritage, documenting the rich cultural traditions and history of the original peoples.",
+        "es": "Una exploración integral del patrimonio indígena de Paraguay, documentando las ricas tradiciones culturales e historia de los pueblos originarios."
+      },
+      "details": {
+        "episodes": 1,
+        "duration": {
+          "en": "75 minutes",
+          "es": "75 minutos"
+        },
+        "languages": ["Spanish", "Guaraní"],
+        "genre": {
+          "en": "Cultural Documentary",
+          "es": "Documental Cultural"
+        }
+      },
+      "production": {
+        "director": "Lorena Galdón",
+        "producer": "Alhambra Studios",
+        "collaborators": {
+          "en": ["Government of Paraguay"],
+          "es": ["Gobierno de Paraguay"]
+        }
+      },
+      "media": {
+        "heroImage": "/images/original-py.jpg",
+        "gallery": ["/images/original-py.jpg"]
+      },
+      "tags": {
+        "en": ["Anthropology", "Indigenous", "Culture"],
+        "es": ["Antropología", "Indígena", "Cultura"]
+      },
+      "featured": false
+    },
+    {
+      "id": "latinos-s-xxi",
+      "slug": "latinos-s-xxi",
+      "title": {
+        "en": "Latinos S XXI",
+        "es": "Latinos S XXI"
+      },
+      "subtitle": {
+        "en": "Modern Latino Identity",
+        "es": "Identidad Latina Moderna"
+      },
+      "category": {
+        "en": "Cultural Series",
+        "es": "Serie Cultural"
+      },
+      "year": "2021",
+      "status": {
+        "en": "Completed",
+        "es": "Completado"
+      },
+      "location": {
+        "en": "Latin America",
+        "es": "Latinoamérica"
+      },
+      "description": {
+        "en": "An adventure beyond the seas that presents the new reality of the Spanish-speaking world as an economic and cultural engine.",
+        "es": "Una aventura que presenta la nueva realidad del mundo hispanohablante como motor económico y cultural."
+      },
+      "longDescription": {
+        "en": "Exploring the modern Latino identity and its impact on global economics and culture in the 21st century.",
+        "es": "Explorando la identidad latina moderna y su impacto en la economía y cultura global del siglo XXI."
+      },
+      "details": {
+        "episodes": 6,
+        "duration": {
+          "en": "30 minutes each",
+          "es": "30 minutos cada uno"
+        },
+        "languages": ["Spanish"],
+        "genre": {
+          "en": "Cultural Series",
+          "es": "Serie Cultural"
+        }
+      },
+      "production": {
+        "director": "Lorena Galdón",
+        "producer": "Alhambra Studios",
+        "collaborators": {
+          "en": ["Various Latino Organizations"],
+          "es": ["Varias Organizaciones Latinas"]
+        }
+      },
+      "media": {
+        "heroImage": "/images/latinos-s-xxi.jpg",
+        "gallery": ["/images/latinos-s-xxi.jpg"]
+      },
+      "tags": {
+        "en": ["Culture", "Economy", "Modern"],
+        "es": ["Cultura", "Economía", "Moderno"]
+      },
+      "featured": false
+    },
+    {
+      "id": "alma-deportiva",
+      "slug": "alma-deportiva",
+      "title": {
+        "en": "Alma Deportiva",
+        "es": "Alma Deportiva"
+      },
+      "subtitle": {
+        "en": "Sports Psychology Documentary",
+        "es": "Documental de Psicología Deportiva"
+      },
+      "category": {
+        "en": "Sports Documentary",
+        "es": "Documental Deportivo"
+      },
+      "year": "2021",
+      "status": {
+        "en": "Completed",
+        "es": "Completado"
+      },
+      "location": {
+        "en": "Spain",
+        "es": "España"
+      },
+      "description": {
+        "en": "The program aims to show the professional effort to conquer success and the most human side of top-level athletes.",
+        "es": "El programa pretende mostrar el esfuerzo profesional para conquistar el éxito y el lado más humano de los deportistas."
+      },
+      "longDescription": {
+        "en": "An intimate look at the psychological and emotional journey of elite athletes, revealing the human side behind sporting excellence.",
+        "es": "Una mirada íntima al viaje psicológico y emocional de los atletas de élite, revelando el lado humano detrás de la excelencia deportiva."
+      },
+      "details": {
+        "episodes": 8,
+        "duration": {
+          "en": "25 minutes each",
+          "es": "25 minutos cada uno"
+        },
+        "languages": ["Spanish"],
+        "genre": {
+          "en": "Sports Documentary",
+          "es": "Documental Deportivo"
+        }
+      },
+      "production": {
+        "director": "Lorena Galdón",
+        "producer": "Alhambra Studios",
+        "collaborators": {
+          "en": ["Spanish Sports Federation"],
+          "es": ["Federación Española de Deportes"]
+        }
+      },
+      "media": {
+        "heroImage": "/images/alma-deportiva.jpg",
+        "gallery": ["/images/alma-deportiva.jpg"]
+      },
+      "tags": {
+        "en": ["Sports", "Athletes", "Values"],
+        "es": ["Deportes", "Atletas", "Valores"]
+      },
+      "featured": false
+    }
+  ]
+}
